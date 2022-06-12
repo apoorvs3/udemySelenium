@@ -1,0 +1,156 @@
+Link number 1 has no text
+Link number 2 is +919711-111-558
+Link number 3 is +919711-191-558
+Link number 4 is +1 646-480-0603
+Link number 5 is seleniumcoaching
+Link number 6 is trainer@way2automation.com
+Link number 7 has no text
+Link number 8 has no text
+Link number 9 has no text
+Link number 10 has no text
+Link number 11 has no text
+Link number 12 is Home
+Link number 13 is All Courses
+Link number 14 has no text
+Link number 15 has no text
+Link number 16 has no text
+Link number 17 has no text
+Link number 18 has no text
+Link number 19 has no text
+Link number 20 has no text
+Link number 21 has no text
+Link number 22 has no text
+Link number 23 has no text
+Link number 24 has no text
+Link number 25 has no text
+Link number 26 has no text
+Link number 27 has no text
+Link number 28 has no text
+Link number 29 is Video Tutorial
+Link number 30 has no text
+Link number 31 has no text
+Link number 32 has no text
+Link number 33 has no text
+Link number 34 has no text
+Link number 35 has no text
+Link number 36 has no text
+Link number 37 has no text
+Link number 38 has no text
+Link number 39 has no text
+Link number 40 has no text
+Link number 41 has no text
+Link number 42 has no text
+Link number 43 has no text
+Link number 44 has no text
+Link number 45 has no text
+Link number 46 is Resources
+Link number 47 has no text
+Link number 48 has no text
+Link number 49 has no text
+Link number 50 is Careers
+Link number 51 is Lifetime Membership
+Link number 52 is Blog
+Link number 53 is Forum
+Link number 54 is Member Login
+Link number 55 has no text
+Link number 56 has no text
+Link number 57 has no text
+Link number 58 has no text
+Link number 59 has no text
+Link number 60 has no text
+Link number 61 has no text
+Link number 62 has no text
+Link number 63 has no text
+Link number 64 has no text
+Link number 65 has no text
+Link number 66 has no text
+Link number 67 has no text
+Link number 68 has no text
+Link number 69 has no text
+Link number 70 has no text
+Link number 71 has no text
+Link number 72 has no text
+Link number 73 has no text
+Link number 74 has no text
+Link number 75 has no text
+Link number 76 has no text
+Link number 77 has no text
+Link number 78 has no text
+Link number 79 has no text
+Link number 80 has no text
+Link number 81 has no text
+Link number 82 has no text
+Link number 83 has no text
+Link number 84 has no text
+Link number 85 has no text
+Link number 86 has no text
+Link number 87 has no text
+Link number 88 has no text
+Link number 89 has no text
+Link number 90 has no text
+Link number 91 has no text
+Link number 92 has no text
+Link number 93 has no text
+Link number 94 has no text
+Link number 95 has no text
+Link number 96 has no text
+Link number 97 has no text
+Link number 98 has no text
+Link number 99 is Register Now
+Link number 100 has no text
+Link number 101 has no text
+Link number 102 is Read More
+Link number 103 is Read More
+Link number 104 is Read More
+Link number 105 is Read More
+Link number 106 is Get Started
+Link number 107 has no text
+Link number 108 has no text
+Link number 109 has no text
+Link number 110 has no text
+Link number 111 has no text
+Link number 112 has no text
+Link number 113 has no text
+Link number 114 has no text
+Link number 115 has no text
+Link number 116 has no text
+Link number 117 has no text
+Link number 118 has no text
+Link number 119 has no text
+Link number 120 has no text
+Link number 121 has no text
+Link number 122 is Read More
+Link number 123 is Read More
+Link number 124 is Read More
+Link number 125 is Read More
+Link number 126 is Read More
+Link number 127 is Read More
+Link number 128 is Read More
+Link number 129 is Read More
+Link number 130 is Read More
+Link number 131 is Read More
+Link number 132 is About Us
+Link number 133 is View All Images
+Link number 134 has no text
+Link number 135 is Home
+Link number 136 is About Us
+Link number 137 is Member Login
+Link number 138 is Lifetime Membership
+Link number 139 is Buy Now
+Link number 140 is Careers
+Link number 141 is Contact Us
+Link number 142 is Selenium Java
+Link number 143 is Selenium Python
+Link number 144 is API Testing
+Link number 145 is DevOps
+Link number 146 is Jmeter
+Link number 147 is Manual Testing
+Link number 148 is Appium Java
+Link number 149 is Appium Python
+Link number 150 is Robot Framework
+Link number 151 is +91 97111-11-558
+Link number 152 is +91 97111-91-558
+Link number 153 is trainer@way2automation.com
+Link number 154 is seleniumcoaching@gmail.com
+Link number 155 has no text
+Link number 156 has no text

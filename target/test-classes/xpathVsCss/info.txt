@@ -1,0 +1,57 @@
+id
+name
+cssSelector
+xpath
+className
+tagename
+linkText
+partialLinkText
+
+xpath-
+
+normal
+//tagName[@attribute='value']
+
+concatenating
+//input[@name='q'][@type='text']
+//input[@name='q' and @type='text']
+
+or
+(//input[@type='submit'])[2]
+
+contains
+//input[contains(@value,'log')]
+
+parent 
+//input[@type='email']/..
+//input[@type='email']/parent :: div
+
+sibling
+//span/input[@class='k-formatted-value k-input']//following-sibling :: input
+
+special parent-child
+//label[contains(text(),'Price')]/../../..//input[2]
+
+
+
+CSS Selectorss-
+
+input[id='identifierId']
+
+input[id^='identifier']--- start with
+
+input[id$='Id']	---ends with
+
+input[id*='entif']	---contains
+
+#identifierId	---Hash-ID
+
+.whsOnd.zHQkBf	--dot class (replace space with dot)
+
+
+div.aCsJod.oJeWuf > div >div :last-child
+div.aCsJod.oJeWuf > div >div :first-child
+div.aCsJod.oJeWuf > div >div :nth-child(1)
+
+
+

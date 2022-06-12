@@ -1,0 +1,2 @@
+INFO    2022-05-22 20:03:06,117 [main] org.apache.logging.log4j.core.config.plugins.util.ResolverUtil$Test  - This is information log
+ERROR   2022-05-22 20:03:06,118 [main] org.apache.logging.log4j.core.config.plugins.util.ResolverUtil$Test  - here error log will be printed
